@@ -6,7 +6,7 @@ D:\CsharpKamp\FinalProject\DataAccess\bin\Debug\netstandard2.0\Entities.pdb
 D:\CsharpKamp\FinalProject\DataAccess\obj\Debug\netstandard2.0\DataAccess.csprojAssemblyReference.cache
 D:\CsharpKamp\FinalProject\DataAccess\obj\Debug\netstandard2.0\DataAccess.AssemblyInfoInputs.cache
 D:\CsharpKamp\FinalProject\DataAccess\obj\Debug\netstandard2.0\DataAccess.AssemblyInfo.cs
-D:\CsharpKamp\FinalProject\DataAccess\obj\Debug\netstandard2.0\DataAccess.csproj.CoreCompileInputs.cache
 D:\CsharpKamp\FinalProject\DataAccess\obj\Debug\netstandard2.0\DataAccess.csproj.CopyComplete
 D:\CsharpKamp\FinalProject\DataAccess\obj\Debug\netstandard2.0\DataAccess.dll
 D:\CsharpKamp\FinalProject\DataAccess\obj\Debug\netstandard2.0\DataAccess.pdb
+D:\CsharpKamp\FinalProject\DataAccess\obj\Debug\netstandard2.0\DataAccess.csproj.CoreCompileInputs.cache
