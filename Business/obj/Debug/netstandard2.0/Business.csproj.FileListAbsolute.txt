@@ -12,3 +12,5 @@ D:\CsharpKamp\FinalProject\Business\obj\Debug\netstandard2.0\Business.csproj.Cor
 D:\CsharpKamp\FinalProject\Business\obj\Debug\netstandard2.0\Business.csproj.CopyComplete
 D:\CsharpKamp\FinalProject\Business\obj\Debug\netstandard2.0\Business.dll
 D:\CsharpKamp\FinalProject\Business\obj\Debug\netstandard2.0\Business.pdb
+D:\CsharpKamp\FinalProject\Business\bin\Debug\netstandard2.0\Core.dll
+D:\CsharpKamp\FinalProject\Business\bin\Debug\netstandard2.0\Core.pdb
