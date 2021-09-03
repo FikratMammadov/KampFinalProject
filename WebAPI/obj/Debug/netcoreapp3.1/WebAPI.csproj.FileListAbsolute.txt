@@ -86,8 +86,6 @@ D:\CsharpKamp\FinalProject\WebAPI\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnaly
 D:\CsharpKamp\FinalProject\WebAPI\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
 D:\CsharpKamp\FinalProject\WebAPI\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
 D:\CsharpKamp\FinalProject\WebAPI\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
-D:\CsharpKamp\FinalProject\WebAPI\obj\Debug\netcoreapp3.1\WebAPI.csproj.CoreCompileInputs.cache
-D:\CsharpKamp\FinalProject\WebAPI\obj\Debug\netcoreapp3.1\WebAPI.MvcApplicationPartsAssemblyInfo.cache
 D:\CsharpKamp\FinalProject\WebAPI\obj\Debug\netcoreapp3.1\WebAPI.csproj.CopyComplete
 D:\CsharpKamp\FinalProject\WebAPI\obj\Debug\netcoreapp3.1\WebAPI.dll
 D:\CsharpKamp\FinalProject\WebAPI\obj\Debug\netcoreapp3.1\WebAPI.pdb
@@ -138,3 +136,9 @@ D:\CsharpKamp\FinalProject\WebAPI\bin\Debug\netcoreapp3.1\Business.pdb
 D:\CsharpKamp\FinalProject\WebAPI\bin\Debug\netcoreapp3.1\Core.pdb
 D:\CsharpKamp\FinalProject\WebAPI\bin\Debug\netcoreapp3.1\DataAccess.pdb
 D:\CsharpKamp\FinalProject\WebAPI\bin\Debug\netcoreapp3.1\Entities.pdb
+D:\CsharpKamp\FinalProject\WebAPI\bin\Debug\netcoreapp3.1\Autofac.dll
+D:\CsharpKamp\FinalProject\WebAPI\bin\Debug\netcoreapp3.1\Autofac.Extras.DynamicProxy.dll
+D:\CsharpKamp\FinalProject\WebAPI\bin\Debug\netcoreapp3.1\Castle.Core.dll
+D:\CsharpKamp\FinalProject\WebAPI\bin\Debug\netcoreapp3.1\Autofac.Extensions.DependencyInjection.dll
+D:\CsharpKamp\FinalProject\WebAPI\obj\Debug\netcoreapp3.1\WebAPI.csproj.CoreCompileInputs.cache
+D:\CsharpKamp\FinalProject\WebAPI\obj\Debug\netcoreapp3.1\WebAPI.MvcApplicationPartsAssemblyInfo.cache
