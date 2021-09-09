@@ -35,20 +35,15 @@ namespace Business.Concrete
 
             if (CheckIfProductCountOfCategoryCorrect(product.CategoryId).Success)
             {
-                _productDal.Add(product);
-                return new SuccessResult(Messages.ProductAdded);
+                if (CheckProductNameExists(product.ProductName).Success)
+                {
+                    _productDal.Add(product);
+                    return new SuccessResult(Messages.ProductAdded);
+                }       
             }
             return new ErrorResult();
         }
 
-        private IResult CheckProductName(Product product)
-        {
-            if (_productDal.GetAll().Any(p => p.ProductName == product.ProductName))
-            {
-                return new ErrorResult();
-            }
-            return new SuccessResult();
-        }
 
         public IDataResult<List<Product>> GetAll()
         {
@@ -99,6 +94,15 @@ namespace Business.Concrete
             if (result >= 10)
             {
                 return new ErrorResult(Messages.ProductCountOfCategoryError);
+            }
+            return new SuccessResult();
+        }
+        private IResult CheckProductNameExists(string productName)
+        {
+            var result = _productDal.GetAll(p => p.ProductName == productName).Any();
+            if (result)
+            {
+                return new ErrorResult(Messages.ProductNameAlreadyExists);
             }
             return new SuccessResult();
         }
