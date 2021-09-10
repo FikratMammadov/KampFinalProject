@@ -4,6 +4,7 @@ using Business.Constants;
 using Business.ValidationRules.FluentValidation;
 using Core.Aspects.Autofac.Validation;
 using Core.CrossCuttingConcerns.Validation;
+using Core.Utilities.Business;
 using Core.Utilities.Results;
 using DataAccess.Abstract;
 using DataAccess.Concrete.EntityFramework;
@@ -21,9 +22,11 @@ namespace Business.Concrete
     public class ProductManager : IProductService
     {
         IProductDal _productDal;
-        public ProductManager(IProductDal productDal)
+        ICategoryService _categoryService;
+        public ProductManager(IProductDal productDal,ICategoryService categoryService)
         {
             _productDal = productDal;
+            _categoryService = categoryService;
         }
 
         [ValidationAspect(typeof(ProductValidator))]
@@ -31,17 +34,17 @@ namespace Business.Concrete
         {
             // Bir kategoride en fazla 10 urun ola bilir
             // Ayni isimde urun eklemez
+            // Eger mevcut kategori sayisi 15 i gectiyse sisteme yeni urun eklenemez
             // business codes
-
-            if (CheckIfProductCountOfCategoryCorrect(product.CategoryId).Success)
+            IResult result =  BusinessRules.Run(CheckIfProductCountOfCategoryCorrect(product.CategoryId),
+                CheckProductNameExists(product.ProductName),
+                CheckIFCategoryLimitExceded());
+            if (result!=null)
             {
-                if (CheckProductNameExists(product.ProductName).Success)
-                {
-                    _productDal.Add(product);
-                    return new SuccessResult(Messages.ProductAdded);
-                }       
+                return result;
             }
-            return new ErrorResult();
+            _productDal.Add(product);
+            return new SuccessResult(Messages.ProductAdded);
         }
 
 
@@ -106,5 +109,14 @@ namespace Business.Concrete
             }
             return new SuccessResult();
         }
+        private IResult CheckIFCategoryLimitExceded()
+        {
+            var result = _categoryService.GetAll();
+            if (result.Data.Count>=15)
+            {
+                return new ErrorResult(Messages.CategoryNameExceded);
+            }
+            return new SuccessResult();
+        }  
     }
 }
