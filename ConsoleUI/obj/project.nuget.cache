@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "rcWcqtRR/g/9XB1/pT1LzxtBlhdA/kgje/fpqHT+sR5P9lunGGQLOLQP/Sso3eTolTCGUCihX7d1PEj+LpqM9g==",
+  "dgSpecHash": "RVTgONK7gQxz6ceGUx+OMPM+5U4XN1D1L5zSzfPyYiPXNny6M+g6Q1D+tADUJoU0+3egFYrKu0L01rQshki12w==",
   "success": true,
   "projectFilePath": "D:\\CsharpKamp\\FinalProject\\ConsoleUI\\ConsoleUI.csproj",
   "expectedPackageFiles": [
@@ -31,10 +31,10 @@
     "C:\\Users\\Fikret\\.nuget\\packages\\microsoft.extensions.primitives\\3.1.11\\microsoft.extensions.primitives.3.1.11.nupkg.sha512",
     "C:\\Users\\Fikret\\.nuget\\packages\\microsoft.identity.client\\3.0.8\\microsoft.identity.client.3.0.8.nupkg.sha512",
     "C:\\Users\\Fikret\\.nuget\\packages\\microsoft.identitymodel.jsonwebtokens\\5.5.0\\microsoft.identitymodel.jsonwebtokens.5.5.0.nupkg.sha512",
-    "C:\\Users\\Fikret\\.nuget\\packages\\microsoft.identitymodel.logging\\5.5.0\\microsoft.identitymodel.logging.5.5.0.nupkg.sha512",
+    "C:\\Users\\Fikret\\.nuget\\packages\\microsoft.identitymodel.logging\\6.12.2\\microsoft.identitymodel.logging.6.12.2.nupkg.sha512",
     "C:\\Users\\Fikret\\.nuget\\packages\\microsoft.identitymodel.protocols\\5.5.0\\microsoft.identitymodel.protocols.5.5.0.nupkg.sha512",
     "C:\\Users\\Fikret\\.nuget\\packages\\microsoft.identitymodel.protocols.openidconnect\\5.5.0\\microsoft.identitymodel.protocols.openidconnect.5.5.0.nupkg.sha512",
-    "C:\\Users\\Fikret\\.nuget\\packages\\microsoft.identitymodel.tokens\\5.5.0\\microsoft.identitymodel.tokens.5.5.0.nupkg.sha512",
+    "C:\\Users\\Fikret\\.nuget\\packages\\microsoft.identitymodel.tokens\\6.12.2\\microsoft.identitymodel.tokens.6.12.2.nupkg.sha512",
     "C:\\Users\\Fikret\\.nuget\\packages\\microsoft.netcore.platforms\\2.0.0\\microsoft.netcore.platforms.2.0.0.nupkg.sha512",
     "C:\\Users\\Fikret\\.nuget\\packages\\microsoft.netcore.targets\\1.1.0\\microsoft.netcore.targets.1.1.0.nupkg.sha512",
     "C:\\Users\\Fikret\\.nuget\\packages\\microsoft.win32.registry\\4.5.0\\microsoft.win32.registry.4.5.0.nupkg.sha512",

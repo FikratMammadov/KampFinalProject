@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "gqpyO0ss/SQTqo+fZkQn3JZYCOcB7LdX4OIA4L606MCHRoCv7dV0NfU5gKhw5HJQfRHBcUt1zx+IFpjEfle6Vg==",
+  "dgSpecHash": "9AKoaVUxijoo/63hCzOKqjnr9OB80jVS65qN/Bqqfdd5Q9ojNThtth56XBH421EnihdYdl2d+Sd1+x61AQ1SbQ==",
   "success": true,
   "projectFilePath": "D:\\CsharpKamp\\FinalProject\\Business\\Business.csproj",
   "expectedPackageFiles": [
@@ -30,6 +30,8 @@
     "C:\\Users\\Fikret\\.nuget\\packages\\microsoft.extensions.options\\3.1.11\\microsoft.extensions.options.3.1.11.nupkg.sha512",
     "C:\\Users\\Fikret\\.nuget\\packages\\microsoft.extensions.primitives\\3.1.11\\microsoft.extensions.primitives.3.1.11.nupkg.sha512",
     "C:\\Users\\Fikret\\.nuget\\packages\\microsoft.identity.client\\3.0.8\\microsoft.identity.client.3.0.8.nupkg.sha512",
+    "C:\\Users\\Fikret\\.nuget\\packages\\microsoft.identitymodel.logging\\6.12.2\\microsoft.identitymodel.logging.6.12.2.nupkg.sha512",
+    "C:\\Users\\Fikret\\.nuget\\packages\\microsoft.identitymodel.tokens\\6.12.2\\microsoft.identitymodel.tokens.6.12.2.nupkg.sha512",
     "C:\\Users\\Fikret\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
     "C:\\Users\\Fikret\\.nuget\\packages\\microsoft.netcore.targets\\1.1.0\\microsoft.netcore.targets.1.1.0.nupkg.sha512",
     "C:\\Users\\Fikret\\.nuget\\packages\\microsoft.win32.registry\\4.5.0\\microsoft.win32.registry.4.5.0.nupkg.sha512",
@@ -101,7 +103,7 @@
     "C:\\Users\\Fikret\\.nuget\\packages\\system.runtime.serialization.primitives\\4.3.0\\system.runtime.serialization.primitives.4.3.0.nupkg.sha512",
     "C:\\Users\\Fikret\\.nuget\\packages\\system.security.accesscontrol\\4.5.0\\system.security.accesscontrol.4.5.0.nupkg.sha512",
     "C:\\Users\\Fikret\\.nuget\\packages\\system.security.cryptography.algorithms\\4.3.0\\system.security.cryptography.algorithms.4.3.0.nupkg.sha512",
-    "C:\\Users\\Fikret\\.nuget\\packages\\system.security.cryptography.cng\\4.3.0\\system.security.cryptography.cng.4.3.0.nupkg.sha512",
+    "C:\\Users\\Fikret\\.nuget\\packages\\system.security.cryptography.cng\\4.5.0\\system.security.cryptography.cng.4.5.0.nupkg.sha512",
     "C:\\Users\\Fikret\\.nuget\\packages\\system.security.cryptography.csp\\4.3.0\\system.security.cryptography.csp.4.3.0.nupkg.sha512",
     "C:\\Users\\Fikret\\.nuget\\packages\\system.security.cryptography.encoding\\4.3.0\\system.security.cryptography.encoding.4.3.0.nupkg.sha512",
     "C:\\Users\\Fikret\\.nuget\\packages\\system.security.cryptography.openssl\\4.3.0\\system.security.cryptography.openssl.4.3.0.nupkg.sha512",

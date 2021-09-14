@@ -6,4 +6,3 @@ D:\CsharpKamp\FinalProject\Core\obj\Debug\netstandard2.0\Core.AssemblyInfo.cs
 D:\CsharpKamp\FinalProject\Core\obj\Debug\netstandard2.0\Core.dll
 D:\CsharpKamp\FinalProject\Core\obj\Debug\netstandard2.0\Core.pdb
 D:\CsharpKamp\FinalProject\Core\obj\Debug\netstandard2.0\Core.csprojAssemblyReference.cache
-D:\CsharpKamp\FinalProject\Core\obj\Debug\netstandard2.0\Core.csproj.CoreCompileInputs.cache

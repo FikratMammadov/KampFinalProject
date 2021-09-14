@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "+5Q4gts7iQWkxtBVLy933xUC+R6Ta65X0WTaNNb8w/bsQHXAGLDGG1ylw/bCwossQYa9CR8+unZb0Z0q2msD1A==",
+  "dgSpecHash": "yvo/LLHPXfMHqTtnaEMA0ocfuWwnxDNNrDrlbTAl06+GdSLjU1/Pn9rYn46+scmwOzF+qN++TwstzgotU4pctw==",
   "success": true,
   "projectFilePath": "D:\\CsharpKamp\\FinalProject\\WebAPI\\WebAPI.csproj",
   "expectedPackageFiles": [
@@ -41,10 +41,10 @@
     "C:\\Users\\Fikret\\.nuget\\packages\\microsoft.extensions.primitives\\3.1.11\\microsoft.extensions.primitives.3.1.11.nupkg.sha512",
     "C:\\Users\\Fikret\\.nuget\\packages\\microsoft.identity.client\\3.0.8\\microsoft.identity.client.3.0.8.nupkg.sha512",
     "C:\\Users\\Fikret\\.nuget\\packages\\microsoft.identitymodel.jsonwebtokens\\5.5.0\\microsoft.identitymodel.jsonwebtokens.5.5.0.nupkg.sha512",
-    "C:\\Users\\Fikret\\.nuget\\packages\\microsoft.identitymodel.logging\\5.5.0\\microsoft.identitymodel.logging.5.5.0.nupkg.sha512",
+    "C:\\Users\\Fikret\\.nuget\\packages\\microsoft.identitymodel.logging\\6.12.2\\microsoft.identitymodel.logging.6.12.2.nupkg.sha512",
     "C:\\Users\\Fikret\\.nuget\\packages\\microsoft.identitymodel.protocols\\5.5.0\\microsoft.identitymodel.protocols.5.5.0.nupkg.sha512",
     "C:\\Users\\Fikret\\.nuget\\packages\\microsoft.identitymodel.protocols.openidconnect\\5.5.0\\microsoft.identitymodel.protocols.openidconnect.5.5.0.nupkg.sha512",
-    "C:\\Users\\Fikret\\.nuget\\packages\\microsoft.identitymodel.tokens\\5.5.0\\microsoft.identitymodel.tokens.5.5.0.nupkg.sha512",
+    "C:\\Users\\Fikret\\.nuget\\packages\\microsoft.identitymodel.tokens\\6.12.2\\microsoft.identitymodel.tokens.6.12.2.nupkg.sha512",
     "C:\\Users\\Fikret\\.nuget\\packages\\microsoft.netcore.platforms\\2.1.2\\microsoft.netcore.platforms.2.1.2.nupkg.sha512",
     "C:\\Users\\Fikret\\.nuget\\packages\\microsoft.netcore.targets\\1.1.0\\microsoft.netcore.targets.1.1.0.nupkg.sha512",
     "C:\\Users\\Fikret\\.nuget\\packages\\microsoft.visualstudio.web.codegeneration\\3.1.5\\microsoft.visualstudio.web.codegeneration.3.1.5.nupkg.sha512",
