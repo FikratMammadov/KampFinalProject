@@ -140,6 +140,7 @@ D:\CsharpKamp\FinalProject\WebAPI\bin\Debug\netcoreapp3.1\Autofac.dll
 D:\CsharpKamp\FinalProject\WebAPI\bin\Debug\netcoreapp3.1\Autofac.Extras.DynamicProxy.dll
 D:\CsharpKamp\FinalProject\WebAPI\bin\Debug\netcoreapp3.1\Castle.Core.dll
 D:\CsharpKamp\FinalProject\WebAPI\bin\Debug\netcoreapp3.1\Autofac.Extensions.DependencyInjection.dll
+D:\CsharpKamp\FinalProject\WebAPI\bin\Debug\netcoreapp3.1\FluentValidation.dll
+D:\CsharpKamp\FinalProject\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.JwtBearer.dll
 D:\CsharpKamp\FinalProject\WebAPI\obj\Debug\netcoreapp3.1\WebAPI.csproj.CoreCompileInputs.cache
 D:\CsharpKamp\FinalProject\WebAPI\obj\Debug\netcoreapp3.1\WebAPI.MvcApplicationPartsAssemblyInfo.cache
-D:\CsharpKamp\FinalProject\WebAPI\bin\Debug\netcoreapp3.1\FluentValidation.dll
