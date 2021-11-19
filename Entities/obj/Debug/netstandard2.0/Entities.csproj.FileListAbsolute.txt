@@ -1,7 +1,6 @@
 D:\CsharpKamp\FinalProject\Entities\bin\Debug\netstandard2.0\Entities.deps.json
 D:\CsharpKamp\FinalProject\Entities\bin\Debug\netstandard2.0\Entities.dll
 D:\CsharpKamp\FinalProject\Entities\bin\Debug\netstandard2.0\Entities.pdb
-D:\CsharpKamp\FinalProject\Entities\obj\Debug\netstandard2.0\Entities.csprojAssemblyReference.cache
 D:\CsharpKamp\FinalProject\Entities\obj\Debug\netstandard2.0\Entities.AssemblyInfoInputs.cache
 D:\CsharpKamp\FinalProject\Entities\obj\Debug\netstandard2.0\Entities.AssemblyInfo.cs
 D:\CsharpKamp\FinalProject\Entities\obj\Debug\netstandard2.0\Entities.csproj.CoreCompileInputs.cache
@@ -9,4 +8,6 @@ D:\CsharpKamp\FinalProject\Entities\obj\Debug\netstandard2.0\Entities.dll
 D:\CsharpKamp\FinalProject\Entities\obj\Debug\netstandard2.0\Entities.pdb
 D:\CsharpKamp\FinalProject\Entities\bin\Debug\netstandard2.0\Core.dll
 D:\CsharpKamp\FinalProject\Entities\bin\Debug\netstandard2.0\Core.pdb
+D:\CsharpKamp\FinalProject\Entities\obj\Debug\netstandard2.0\Entities.csproj.AssemblyReference.cache
+D:\CsharpKamp\FinalProject\Entities\obj\Debug\netstandard2.0\Entities.GeneratedMSBuildEditorConfig.editorconfig
 D:\CsharpKamp\FinalProject\Entities\obj\Debug\netstandard2.0\Entities.csproj.CopyComplete

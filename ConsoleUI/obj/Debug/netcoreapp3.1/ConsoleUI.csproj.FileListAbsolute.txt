@@ -10,7 +10,6 @@ D:\CsharpKamp\FinalProject\ConsoleUI\bin\Debug\netcoreapp3.1\Entities.dll
 D:\CsharpKamp\FinalProject\ConsoleUI\bin\Debug\netcoreapp3.1\Business.pdb
 D:\CsharpKamp\FinalProject\ConsoleUI\bin\Debug\netcoreapp3.1\DataAccess.pdb
 D:\CsharpKamp\FinalProject\ConsoleUI\bin\Debug\netcoreapp3.1\Entities.pdb
-D:\CsharpKamp\FinalProject\ConsoleUI\obj\Debug\netcoreapp3.1\ConsoleUI.csprojAssemblyReference.cache
 D:\CsharpKamp\FinalProject\ConsoleUI\obj\Debug\netcoreapp3.1\ConsoleUI.AssemblyInfoInputs.cache
 D:\CsharpKamp\FinalProject\ConsoleUI\obj\Debug\netcoreapp3.1\ConsoleUI.AssemblyInfo.cs
 D:\CsharpKamp\FinalProject\ConsoleUI\obj\Debug\netcoreapp3.1\ConsoleUI.csproj.CoreCompileInputs.cache
@@ -71,3 +70,6 @@ D:\CsharpKamp\FinalProject\ConsoleUI\bin\Debug\netcoreapp3.1\Microsoft.AspNetCor
 D:\CsharpKamp\FinalProject\ConsoleUI\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.WebUtilities.dll
 D:\CsharpKamp\FinalProject\ConsoleUI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.ObjectPool.dll
 D:\CsharpKamp\FinalProject\ConsoleUI\bin\Debug\netcoreapp3.1\Microsoft.Net.Http.Headers.dll
+D:\CsharpKamp\FinalProject\ConsoleUI\obj\Debug\netcoreapp3.1\ConsoleUI.csproj.AssemblyReference.cache
+D:\CsharpKamp\FinalProject\ConsoleUI\obj\Debug\netcoreapp3.1\ConsoleUI.GeneratedMSBuildEditorConfig.editorconfig
+D:\CsharpKamp\FinalProject\ConsoleUI\bin\Debug\netcoreapp3.1\AutoMapper.dll

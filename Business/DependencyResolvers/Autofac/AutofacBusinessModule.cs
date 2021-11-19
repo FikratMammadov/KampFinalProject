@@ -12,6 +12,7 @@ using Castle.DynamicProxy;
 using Business.CCS;
 using Core.Utilities.Security.JWT;
 using Microsoft.AspNetCore.Http;
+using Core.Helpers.FileHelper;
 
 namespace Business.DependencyResolvers.Autofac
 {
@@ -31,7 +32,10 @@ namespace Business.DependencyResolvers.Autofac
             builder.RegisterType<AuthManager>().As<IAuthService>();
             builder.RegisterType<JwtHelper>().As<ITokenHelper>();
 
+            builder.RegisterType<ProductImageManager>().As<IProductImageService>();
+            builder.RegisterType<EfProductImageDal>().As<IProductImageDal>();
 
+            builder.RegisterType<FileHelper>().As<IFileHelper>();
 
             var assembly = System.Reflection.Assembly.GetExecutingAssembly();
 

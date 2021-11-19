@@ -22,6 +22,7 @@ using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Hosting;
 using Microsoft.Extensions.Logging;
 using Microsoft.IdentityModel.Tokens;
+using Microsoft.OpenApi.Models;
 
 namespace WebAPI
 {
@@ -38,6 +39,33 @@ namespace WebAPI
         public void ConfigureServices(IServiceCollection services)
         {
             services.AddControllers();
+
+            var scheme = new OpenApiSecurityScheme
+            {
+                Description = "JWT Authorization header using the Bearer scheme. Example: \"Authorization: Bearer {token}\"",
+                Name = "Authorization",
+                In = ParameterLocation.Header,
+                Type = SecuritySchemeType.Http,
+                BearerFormat = "JWT",
+                Scheme = "bearer",
+                Reference = new OpenApiReference
+                {
+                    Type = ReferenceType.SecurityScheme,
+                    Id = "Bearer"
+                }
+
+            };
+            services.AddSwaggerGen(c =>
+            {
+                c.SwaggerDoc("v1", new OpenApiInfo { Title = "ProjectUp.WebApi", Version = "v1" });
+                c.AddSecurityDefinition("Bearer", scheme);
+                c.AddSecurityRequirement(new OpenApiSecurityRequirement
+                {
+                    {scheme,new string[] { }}
+                });
+
+            });
+
 
             services.AddSingleton<IHttpContextAccessor, HttpContextAccessor>();
             var tokenOptions = Configuration.GetSection("TokenOptions").Get<TokenOptions>();
@@ -68,6 +96,10 @@ namespace WebAPI
             {
                 app.UseDeveloperExceptionPage();
             }
+
+            app.UseSwagger();
+            app.UseSwaggerUI(c => c.SwaggerEndpoint("/swagger/v1/swagger.json", "FinalProject.WebApi v1"));
+
 
             app.UseHttpsRedirection();
 

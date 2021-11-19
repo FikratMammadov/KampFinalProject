@@ -17,7 +17,7 @@ namespace DataAccess.Concrete.InMemory
             _products = new List<Product> {
                 new Product
                 {
-                    ProductId=1,
+                    Id=1,
                     CategoryId = 1,
                     ProductName = "Bardak",
                     UnitPrice = 15,
@@ -25,7 +25,7 @@ namespace DataAccess.Concrete.InMemory
                 },
                 new Product
                 {
-                    ProductId=2,
+                    Id=2,
                     CategoryId = 1,
                     ProductName = "Kamera",
                     UnitPrice = 500,
@@ -33,7 +33,7 @@ namespace DataAccess.Concrete.InMemory
                 },
                 new Product
                 {
-                    ProductId=3,
+                    Id=3,
                     CategoryId = 2,
                     ProductName = "Telefon",
                     UnitPrice = 1500,
@@ -41,7 +41,7 @@ namespace DataAccess.Concrete.InMemory
                 },
                 new Product
                 {
-                    ProductId=4,
+                    Id=4,
                     CategoryId = 2,
                     ProductName = "Klavye",
                     UnitPrice = 150,
@@ -49,7 +49,7 @@ namespace DataAccess.Concrete.InMemory
                 },
                 new Product
                 {
-                    ProductId=5,
+                    Id=5,
                     CategoryId = 2,
                     ProductName = "Fare",
                     UnitPrice = 85,
@@ -74,7 +74,7 @@ namespace DataAccess.Concrete.InMemory
             //    }
             //}
 
-            Product productToDelete = _products.SingleOrDefault(p=>p.ProductId==product.ProductId); 
+            Product productToDelete = _products.SingleOrDefault(p=>p.Id==product.Id); 
 
             _products.Remove(productToDelete);
         }
@@ -107,7 +107,7 @@ namespace DataAccess.Concrete.InMemory
         public void Update(Product product)
         {
             // Gonderdiyim product id'sine sahib olan product listindeki producti tap
-            Product productToUpdate = _products.SingleOrDefault(p => p.ProductId == product.ProductId);
+            Product productToUpdate = _products.SingleOrDefault(p => p.Id == product.Id);
             productToUpdate.ProductName = product.ProductName;
             productToUpdate.CategoryId = product.CategoryId;
             productToUpdate.UnitPrice = product.UnitPrice;

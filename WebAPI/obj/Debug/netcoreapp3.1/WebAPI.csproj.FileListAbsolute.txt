@@ -1,8 +1,6 @@
 D:\CsharpKamp\FinalProject\WebAPI\bin\Debug\netcoreapp3.1\appsettings.Development.json
 D:\CsharpKamp\FinalProject\WebAPI\bin\Debug\netcoreapp3.1\appsettings.json
-D:\CsharpKamp\FinalProject\WebAPI\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
 D:\CsharpKamp\FinalProject\WebAPI\bin\Debug\netcoreapp3.1\WebAPI.exe
-D:\CsharpKamp\FinalProject\WebAPI\obj\Debug\netcoreapp3.1\WebAPI.csprojAssemblyReference.cache
 D:\CsharpKamp\FinalProject\WebAPI\obj\Debug\netcoreapp3.1\WebAPI.AssemblyInfoInputs.cache
 D:\CsharpKamp\FinalProject\WebAPI\obj\Debug\netcoreapp3.1\WebAPI.AssemblyInfo.cs
 D:\CsharpKamp\FinalProject\WebAPI\obj\Debug\netcoreapp3.1\WebAPI.RazorTargetAssemblyInfo.cache
@@ -86,7 +84,6 @@ D:\CsharpKamp\FinalProject\WebAPI\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnaly
 D:\CsharpKamp\FinalProject\WebAPI\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
 D:\CsharpKamp\FinalProject\WebAPI\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
 D:\CsharpKamp\FinalProject\WebAPI\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
-D:\CsharpKamp\FinalProject\WebAPI\obj\Debug\netcoreapp3.1\WebAPI.csproj.CopyComplete
 D:\CsharpKamp\FinalProject\WebAPI\obj\Debug\netcoreapp3.1\WebAPI.dll
 D:\CsharpKamp\FinalProject\WebAPI\obj\Debug\netcoreapp3.1\WebAPI.pdb
 D:\CsharpKamp\FinalProject\WebAPI\obj\Debug\netcoreapp3.1\WebAPI.genruntimeconfig.cache
@@ -144,3 +141,14 @@ D:\CsharpKamp\FinalProject\WebAPI\bin\Debug\netcoreapp3.1\FluentValidation.dll
 D:\CsharpKamp\FinalProject\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.JwtBearer.dll
 D:\CsharpKamp\FinalProject\WebAPI\obj\Debug\netcoreapp3.1\WebAPI.csproj.CoreCompileInputs.cache
 D:\CsharpKamp\FinalProject\WebAPI\obj\Debug\netcoreapp3.1\WebAPI.MvcApplicationPartsAssemblyInfo.cache
+D:\CsharpKamp\FinalProject\WebAPI\obj\Debug\netcoreapp3.1\WebAPI.csproj.AssemblyReference.cache
+D:\CsharpKamp\FinalProject\WebAPI\obj\Debug\netcoreapp3.1\WebAPI.GeneratedMSBuildEditorConfig.editorconfig
+D:\CsharpKamp\FinalProject\WebAPI\obj\Debug\netcoreapp3.1\scopedcss\bundle\WebAPI.styles.css
+D:\CsharpKamp\FinalProject\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+D:\CsharpKamp\FinalProject\WebAPI\bin\Debug\netcoreapp3.1\AutoMapper.dll
+D:\CsharpKamp\FinalProject\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+D:\CsharpKamp\FinalProject\WebAPI\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+D:\CsharpKamp\FinalProject\WebAPI\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\CsharpKamp\FinalProject\WebAPI\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\CsharpKamp\FinalProject\WebAPI\obj\Debug\netcoreapp3.1\WebAPI.MvcApplicationPartsAssemblyInfo.cs
+D:\CsharpKamp\FinalProject\WebAPI\obj\Debug\netcoreapp3.1\WebAPI.csproj.CopyComplete
